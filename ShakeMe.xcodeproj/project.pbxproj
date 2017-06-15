@@ -13,6 +13,9 @@
 		6BAC0D6E1EF3121A00E3D9D1 /* ShakeMe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6BAC0D6C1EF3121A00E3D9D1 /* ShakeMe.xcdatamodeld */; };
 		6BAC0D701EF3121A00E3D9D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BAC0D6F1EF3121A00E3D9D1 /* Assets.xcassets */; };
 		6BAC0D731EF3121A00E3D9D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BAC0D711EF3121A00E3D9D1 /* LaunchScreen.storyboard */; };
+		6BAC0D7B1EF312CE00E3D9D1 /* batman.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6BAC0D7A1EF312CE00E3D9D1 /* batman.gif */; };
+		6BAC0D7D1EF312D200E3D9D1 /* batman_on_drugs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6BAC0D7C1EF312D200E3D9D1 /* batman_on_drugs.mp3 */; };
+		6BAC0D7F1EF31E6D00E3D9D1 /* batmanface.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BAC0D7E1EF31E6D00E3D9D1 /* batmanface.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		6BAC0D6F1EF3121A00E3D9D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BAC0D721EF3121A00E3D9D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6BAC0D741EF3121A00E3D9D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6BAC0D7A1EF312CE00E3D9D1 /* batman.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = batman.gif; sourceTree = "<group>"; };
+		6BAC0D7C1EF312D200E3D9D1 /* batman_on_drugs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = batman_on_drugs.mp3; sourceTree = "<group>"; };
+		6BAC0D7E1EF31E6D00E3D9D1 /* batmanface.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = batmanface.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				6BAC0D671EF3121A00E3D9D1 /* ViewController.swift */,
 				6BAC0D691EF3121A00E3D9D1 /* Main.storyboard */,
 				6BAC0D6F1EF3121A00E3D9D1 /* Assets.xcassets */,
+				6BAC0D7A1EF312CE00E3D9D1 /* batman.gif */,
+				6BAC0D7E1EF31E6D00E3D9D1 /* batmanface.png */,
+				6BAC0D7C1EF312D200E3D9D1 /* batman_on_drugs.mp3 */,
 				6BAC0D711EF3121A00E3D9D1 /* LaunchScreen.storyboard */,
 				6BAC0D741EF3121A00E3D9D1 /* Info.plist */,
 				6BAC0D6C1EF3121A00E3D9D1 /* ShakeMe.xcdatamodeld */,
@@ -128,8 +137,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				6BAC0D731EF3121A00E3D9D1 /* LaunchScreen.storyboard in Resources */,
+				6BAC0D7B1EF312CE00E3D9D1 /* batman.gif in Resources */,
+				6BAC0D7D1EF312D200E3D9D1 /* batman_on_drugs.mp3 in Resources */,
 				6BAC0D701EF3121A00E3D9D1 /* Assets.xcassets in Resources */,
 				6BAC0D6B1EF3121A00E3D9D1 /* Main.storyboard in Resources */,
+				6BAC0D7F1EF31E6D00E3D9D1 /* batmanface.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
