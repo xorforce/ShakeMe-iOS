@@ -9,5 +9,6 @@ Screenshots:<br><br>
 ![alt_text](https://user-images.githubusercontent.com/14857735/27200385-234c3674-5237-11e7-90a7-f489ed9fd827.png)
 ![alt_text](https://user-images.githubusercontent.com/14857735/27200280-d4d6016e-5236-11e7-8dc3-ff59dab9ac13.PNG)
 
+The app makes use of simple shake gestures to determine the playing/pausing of the GIF and the music. 
 
 
